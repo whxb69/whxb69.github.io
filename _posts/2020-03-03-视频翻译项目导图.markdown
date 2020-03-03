@@ -18,4 +18,4 @@ author: "smvlboy"
 
 下面是项目的流程导图：
 
-![](https://whxb69.github.io/_img/2020-3-3-视频翻译.png)
+![](https://github.com/whxb69/whxb69.github.io/blob/master/_img/2020-3-3-视频翻译.png)
